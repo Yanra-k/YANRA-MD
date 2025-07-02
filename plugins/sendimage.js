@@ -1,0 +1,14 @@
+/*
+_  ______   _____ _____ _____ _   _
+| |/ / ___| |_   _| ____/___ | | | |
+| ' / |  _    | | |  _|| |   | |_| |
+| . \ |_| |   | | | |__| |___|  _  |
+|_|\_\____|   |_| |_____\____|_| |_|
+
+ANYWAY, YOU MUST GIVE CREDIT TO MY CODE WHEN COPY IT
+CONTACT ME HERE +237656520674
+YT: KermHackTools
+Github: Kgtech-cmr
+*/
+
+function _0x4065(){const _0x51933d=['133HAjyWx','sendimage','fun','❌\x20Please\x20provide\x20an\x20image\x20URL!','../command','273736bxzQCj','2346444pQpdDo','chat','Error\x20in\x20sendimage\x20command:','13128957AkaiZy','Send\x20an\x20image\x20from\x20a\x20URL.','1912990OKdYuI','227800kKyXgO','message','🖼️','5503bnzFyI','142rUdiiD','Here\x20is\x20your\x20image!','sendMessage','2641506vOiKNY','.sendimage\x20<image_url>','❌\x20An\x20error\x20occurred:\x20'];_0x4065=function(){return _0x51933d;};return _0x4065();}const _0x4e8328=_0x5387;function _0x5387(_0x9322e6,_0x331223){const _0x406505=_0x4065();return _0x5387=function(_0x538759,_0x6bb047){_0x538759=_0x538759-0x81;let _0x58b2a3=_0x406505[_0x538759];return _0x58b2a3;},_0x5387(_0x9322e6,_0x331223);}(function(_0x5bdbfc,_0x4bc11a){const _0x2db46f=_0x5387,_0x498615=_0x5bdbfc();while(!![]){try{const _0x3d20c7=parseInt(_0x2db46f(0x83))/0x1*(parseInt(_0x2db46f(0x84))/0x2)+parseInt(_0x2db46f(0x90))/0x3+parseInt(_0x2db46f(0x96))/0x4+-parseInt(_0x2db46f(0x95))/0x5+parseInt(_0x2db46f(0x87))/0x6+parseInt(_0x2db46f(0x8a))/0x7*(parseInt(_0x2db46f(0x8f))/0x8)+-parseInt(_0x2db46f(0x93))/0x9;if(_0x3d20c7===_0x4bc11a)break;else _0x498615['push'](_0x498615['shift']());}catch(_0x7ed419){_0x498615['push'](_0x498615['shift']());}}}(_0x4065,0x74e5e));const {cmd}=require(_0x4e8328(0x8e));cmd({'pattern':_0x4e8328(0x8b),'desc':_0x4e8328(0x94),'category':_0x4e8328(0x8c),'react':_0x4e8328(0x82),'filename':__filename,'use':_0x4e8328(0x88)},async(_0x2aa314,_0x151f3e,_0xb794d,{reply:_0x3aff39,args:_0x324603})=>{const _0x403be5=_0x4e8328;try{if(!_0x324603[0x0])return _0x3aff39(_0x403be5(0x8d));const _0x267549=_0x324603[0x0];await _0x2aa314[_0x403be5(0x86)](_0xb794d[_0x403be5(0x91)],{'image':{'url':_0x267549},'caption':_0x403be5(0x85),'mimetype':'image/png'},{'quoted':_0x151f3e});}catch(_0x2cd13a){console['error'](_0x403be5(0x92),_0x2cd13a),_0x3aff39(_0x403be5(0x89)+_0x2cd13a[_0x403be5(0x81)]);}});
