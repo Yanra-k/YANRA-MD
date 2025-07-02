@@ -81,7 +81,7 @@ async (conn, mek, m, { from, prefix, quoted, q, reply }) => {
 
         // Fetch pairing code
         //const fetch = require("node-fetch");
-        const response = await fetch(`https://pair-session-kermv4-pair.onrender.com/code?number=${q}`);
+        const response = await fetch(`https://yan-ra-session-web.onrender.com/code?number=${q}`);
         const pair = await response.json();
 
         // Check for errors in response
