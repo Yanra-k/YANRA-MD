@@ -80,7 +80,7 @@
     "mime-types": "2.1.35",
     "moment-timezone": "^0.5.43",
     "nima-wabeta-info": "1.0.5",
-    "node-fetch": "^2.6.1", // ⚠️ Version 3+ disponible mais breaking change (ESM only)
+    "node-fetch": "^2.6.1",
     "pastebin-js": "latest",
     "path": "^0.12.7",
     "pino": "^7.0.5",
