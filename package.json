@@ -52,7 +52,7 @@
     "express": "latest",
     "extract-zip": "2.0.1",
     "fb-info-video": "1.0.2",
-    "ffmpeg": "^0.0.4", // ⚠️ Obsolète, peut être retiré si @ffmpeg-installer/ffmpeg est utilisé seul
+    "ffmpeg": "^0.0.4",
     "file_size_url": "^1.0.4",
     "file-type": "^16.5.3",
     "fluent-ffmpeg": "^2.1.2",
